@@ -9,7 +9,7 @@
 
 ## 🎮 Live Demo
 
-Experience the game live: [Play Snake Game](musthofa-kamaluddin.github.io/snake)
+Experience the game live: [Play Snake Game](https://musthofa-kamaluddin.github.io/snake/)
 
 ## ✨ Features
 
